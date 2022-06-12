@@ -1,0 +1,23 @@
+body{
+    background-image: url(/img/pexels-jack-gittoes-1224859.jpg);
+    background-position:center;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aqua;
+    padding-top: 50px;
+
+}
+.heading{
+    color: yellow;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+footer{
+    padding-top: 200px;
+}
+button{
+    border-radius: 10px;
+    color: black;
+}
